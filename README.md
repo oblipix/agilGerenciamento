@@ -49,6 +49,12 @@ Módulo readline-sync para entrada de dados no terminal
 Persistência de dados com JSON
 
 
+### instalando as dependencias: 
+
+npm init -y 
+npm install readline-sync
+
+
 #### Fazendo o projeto funcionar:
 
 Navegue até a pasta onde está o projeto:
